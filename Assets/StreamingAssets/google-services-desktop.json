@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335367904811",
+    "project_id": "scales-a45d1",
+    "storage_bucket": "scales-a45d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335367904811:android:764d57d954f87844dc946e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GamejamGithub23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
